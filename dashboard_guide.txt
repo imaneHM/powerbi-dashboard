@@ -1,0 +1,2 @@
+Import the CSV into Power BI Desktop
+Create dashboards with KPI tracking
